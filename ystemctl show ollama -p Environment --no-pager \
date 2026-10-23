@@ -1,0 +1,1 @@
+Environment=PATH=/home/ntp2311/.local/bin:/home/ntp2311/.nvm/versions/node/v24.22.1/bin:/home/ntp2311/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin GODEBUG=netdns=cgo
